@@ -1,0 +1,16 @@
+{
+  "name": "java-js-utils",
+  "version": "0.0.1",
+  "description": "java jdk use javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "format",
+    "hashcode"
+  ],
+  "author": "",
+  "license": "ISC"
+}
